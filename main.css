@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    padding-top: 25px;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+form {
+    padding: 25px 0;
+    text-align: center;
+    color: #c8d6e5;
+}
+
+input {
+    padding: 9px;
+    width: 23%;
+}
+
+button {
+    cursor: pointer;
+    padding: 10px;
+    margin-left: 2px;
+}
+
+
+
+ul {
+    display: flex;
+    padding-left: 46%;
+    align-items: center;
+    cursor: pointer;
+    display: block;
+}
+
+.riscarTarefa {
+    text-decoration: line-through;
+}
+
+ul li{
+    list-style-type: none;
+}
+
